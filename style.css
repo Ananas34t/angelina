@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+
+
+
+
+}
+ h1 {
+    font-size: 85px;
+    
+    border-bottom: 10px double black;
+    background: linear-gradient(to right, rgb(236, 152, 247), rgb(85, 31, 110)) rgb(54, 28, 54);
+ }
+
+
+span {
+    background-color: rgb(157, 90, 219);
+
+}
+
+ul {
+    font-size: 25px;
+}
+
+body {
+    background:linear-gradient(#ffffff,#4B2A82) ;
+}
